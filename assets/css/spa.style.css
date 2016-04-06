@@ -16,11 +16,11 @@ p, li a {
 /* Default highlight color */
 ::-moz-selection {
   color: #fff;
-  background: #9dba04;
+  background: #90a7d5;
 }
 ::selection {
   color: #fff;
-  background: #9dba04;
+  background: #90a7d5;
 }
 
 .btn-u-upper {
@@ -34,23 +34,23 @@ p, li a {
 	font-weight: bold;
 }
 .btn-u-lg.btn-u-bg-default {
-	background: #9dba04;
+	background: #90a7d5;
 }
 .btn-u-lg.btn-u-bg-default:hover,
 .btn-u-lg.btn-u-bg-default:focus {
-	background: #82990b;
+	background: #466cb9;
 	color: #fff;
 }
 .btn-u-lg.btn-u-default {
-	border: solid 2px #9dba04;
+	border: solid 2px #90a7d5;
 	background: none;
-	color: #9dba04;
+	color: #90a7d5;
 }
 .btn-u-lg.btn-u-default:hover,
 .btn-u-lg.btn-u-default:focus {
-	border-color: #82990b;
+	border-color: #466cb9;
 	background: none;
-	color: #82990b;
+	color: #466cb9;
 }
 
 /* General use classes */
@@ -248,7 +248,7 @@ p, li a {
 .g-heading-v7 .h2 .block-name {
 	font-style: normal;
 	display: block;
-	color: #9dba04;
+	color: #90a7d5;
 	font: 20px "Leckerli One", sans-serif;
 	text-transform: capitalize;
 	margin-bottom: 25px;
@@ -267,7 +267,7 @@ p, li a {
 }
 
 .g-bg-default {
-	background: #9dba04;
+	background: #90a7d5;
 }
 
 /* Header background */
@@ -327,7 +327,7 @@ p, li a {
 .one-page-header.spa-header .navbar-nav > li.active > a:hover,
 .one-page-header.spa-header .navbar-nav > li.active > a:focus,
 .one-page-header.spa-header .navbar-nav > li.active > a {
-	color: #9dba04 !important;
+	color: #90a7d5 !important;
 }
 
 /* Toggle button below 992px */
@@ -358,7 +358,7 @@ p, li a {
 }
 
 .one-page-header.top-nav-collapse .navbar-toggle:hover .icon-bar {
-    background: #9dba04 none repeat scroll 0% 0%;
+    background: #90a7d5 none repeat scroll 0% 0%;
 }
 
 /* Header transition on scroll */
@@ -383,7 +383,7 @@ p, li a {
 	display: inline-block;
 	padding-bottom: 7px;
 	margin-bottom: 15px;
-	border-bottom: 3px solid #9dba04;
+	border-bottom: 3px solid #90a7d5;
 }
 .promo-section .h2 {
 	color: #fff;
@@ -497,7 +497,7 @@ p, li a {
 	left: 28%;
 	height: 100%;
 	width: 140px;
-	border-bottom: 2px solid #9dba04;
+	border-bottom: 2px solid #90a7d5;
 	z-index: 0;
 }
 
@@ -511,14 +511,14 @@ p, li a {
 .promo-1 .btn-u.promo-btn {
 	color: #fff;
 	font-size: 11px;
-	background: #9dba04;
+	background: #90a7d5;
 	padding: 20px;
 	font-weight: bold;
 }
 
 .promo-1 .btn-u.promo-btn:hover,
 .promo-1 .btn-u.promo-btn:focus {
-	background: #82990b;
+	background: #466cb9;
 }
 
 /* Second promo box */
@@ -563,7 +563,7 @@ p, li a {
 }
 
 .promo-3 .promo-small-1 {
-	background: #9dba04;
+	background: #90a7d5;
 	margin-bottom: 30px;
 }
 
@@ -643,7 +643,7 @@ p, li a {
 }
 
 .offer .offer-img .price {
-	background: #9dba04;
+	background: #90a7d5;
 	top: 0;
 	color: #fff;
 	padding: 15px 0;
@@ -652,7 +652,7 @@ p, li a {
 .offer .offer-img .percentage {
 	background: #fff;
 	top: 70px;
-	color: #9dba04;
+	color: #90a7d5;
 	padding: 12px 0;
 }
 
@@ -660,7 +660,7 @@ p, li a {
 	position: absolute;
 	z-index: 2;
 	text-transform: uppercase;
-	color: #9dba04;
+	color: #90a7d5;
 	top: 110px;
 	right: 22px;
 	font-size: 12px;
@@ -696,7 +696,7 @@ p, li a {
 }
 
 .offer .star-list li .fa {
-	color: #9dba04;
+	color: #90a7d5;
 	font-size: 12px;
 }
 
@@ -810,8 +810,8 @@ p, li a {
 
 .procedures .care-text .btn-u.care-btn {
 	background: transparent;
-	border: 2px solid #9dba04;
-	color: #9dba04;
+	border: 2px solid #90a7d5;
+	color: #90a7d5;
 	text-transform: uppercase;
 	font-size: 11px;
 	font-weight: bold;
@@ -820,7 +820,7 @@ p, li a {
 
 .procedures .care-text .btn-u.care-btn:hover,
 .procedures .care-text .btn-u.care-btn:focus {
-	background: #9dba04;
+	background: #90a7d5;
 	color: #fff;
 }
 
@@ -901,7 +901,7 @@ p, li a {
 }
 
 .products .owl-slider-v4-products .item .owl-span {
-	color: #9dba04;
+	color: #90a7d5;
 	font-size: 16px;
 	font-weight: bold;
 }
@@ -918,7 +918,7 @@ p, li a {
 
 .products .owl-theme .owl-controls .owl-page.active span,
 .products .owl-theme .owl-controls.clickable .owl-page:hover span {
-  background: #9dba04;
+  background: #90a7d5;
 }
 
 /* Responsive */
@@ -963,7 +963,7 @@ p, li a {
 	margin-bottom: 5px;
 }
 .contact .contact-list ul li .icon {
-	color: #9dba04;
+	color: #90a7d5;
 }
 
 .contact .contact-list ul li.first-item {
@@ -1033,7 +1033,7 @@ p, li a {
 
 .footer-list li > a:hover, .footer-list li > a:focus {
 	color: #fff;
-	background: #9dba04;
+	background: #90a7d5;
 }
 
 /* Footer navigation bar */
@@ -1051,7 +1051,7 @@ p, li a {
 
 .footer .footer-nav li a:hover {
 	text-decoration: none;
-	color: #9dba04;
+	color: #90a7d5;
 }
 
 /* Responsive */
@@ -1088,7 +1088,7 @@ p, li a {
 	margin: 0;
 }
 .advice-info .star-list li {
-  color: #9dba04;
+  color: #90a7d5;
   font-size: 12px;
   padding: 0;
 }
@@ -1119,7 +1119,7 @@ p, li a {
 	font-weight: bold;
 }
 .advice-voting a:hover {
-	color: #9dba04;
+	color: #90a7d5;
 }
 .advice-voting a i {
 	font-size: 14px;
@@ -1159,12 +1159,12 @@ p, li a {
 
 /*Success message*/
 .sky-form .message {
-    color: #9dba04;
+    color: #90a7d5;
 
 }
 
 .sky-form .message i {
-    border: 1px solid #9dba04;
+    border: 1px solid #90a7d5;
 }
 
 .sky-form.submited .message p {

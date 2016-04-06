@@ -15,10 +15,10 @@ function initMap() {
 			},
 			{
 				featureType: 'water',
-				stylers: [{color: '#aee2e0'}]
+				stylers: [{color: '#90a7d5'}]
 			}
 		], {
-			name: 'Unify Style'
+			name: 'CPWI'
 	});
 
 	var image = new google.maps.MarkerImage(
@@ -31,22 +31,22 @@ function initMap() {
 	var customMapTypeId = 'custom_style';
 
 	var map = new google.maps.Map(document.getElementById('map'), {
-		zoom: 12,
+		zoom: 14,
 		scrollwheel: false,
-		center: {lat: 40.674, lng: -73.946},  // Brooklyn.
+		center: {lat: 41.8800, lng: -88.0078},  // Lombard IL.
 		mapTypeControlOptions: {
 			mapTypeIds: [google.maps.MapTypeId.ROADMAP, customMapTypeId]
 		}
 	});
 
 	var infowindow = new google.maps.InfoWindow;
-	infowindow.setContent('<b>Brooklyn</b>');
+	infowindow.setContent('<b>Lombard IL</b>');
 
 	var marker = new google.maps.Marker({
 		map: map,
 		clickable: false,
 		icon: image,
-		position: {lat: 40.674, lng: -73.946}
+		position: {lat: 41.8800, lng: -88.0078}
 	});
 
 	map.mapTypes.set(customMapTypeId, customMapType);
