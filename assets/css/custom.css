@@ -4,3 +4,9 @@
 .one-page-header.spa-header .navbar-brand img, .footer-logo img { max-height: 48px; }
 .offer .offer-text {height: 315px;}
 .offer.offer-small .offer-text {height: 425px;}
+.products .owl-slider-v4-products .item {
+  min-height: 0px;
+  height: 220px;
+}
+.products .owl-theme .owl-controls .owl-page.active span {background-color: black;}
+.products .owl-slider-v4-products .item .owl-h2{ line-height: 1.1;}
