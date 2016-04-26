@@ -2,3 +2,5 @@
 /* light blue: #90a7d5 ; light green: #9dba04 */
 /* dark blue: #466cb9 ; dark green: ##82990b */
 .one-page-header.spa-header .navbar-brand img, .footer-logo img { max-height: 48px; }
+.offer .offer-text {height: 315px;}
+.offer.offer-small .offer-text {height: 425px;}
