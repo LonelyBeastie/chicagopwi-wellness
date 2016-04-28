@@ -14,3 +14,13 @@ div.products {
   padding-top: 40px;
   padding-bottom: 0px;
 }
+li.bullet{
+  padding-top: 5px;
+}
+li.sub-bullet{
+  font-size: 10px;
+  font-style: italic;
+}
+.g-heading-v7 h2.about-hours{
+  text-transform: none;
+}

@@ -33,7 +33,7 @@ function initMap() {
 	var map = new google.maps.Map(document.getElementById('map'), {
 		zoom: 14,
 		scrollwheel: false,
-		center: {lat: 41.8800, lng: -88.0078},  // Lombard IL.
+		center: {lat: 41.902820, lng: -88.035777},  // Lombard IL.
 		mapTypeControlOptions: {
 			mapTypeIds: [google.maps.MapTypeId.ROADMAP, customMapTypeId]
 		}
@@ -46,7 +46,7 @@ function initMap() {
 		map: map,
 		clickable: false,
 		icon: image,
-		position: {lat: 41.8800, lng: -88.0078}
+		position: {lat: 41.902820, lng: -88.035777}
 	});
 
 	map.mapTypes.set(customMapTypeId, customMapType);
