@@ -3,7 +3,8 @@
 /* dark blue: #466cb9 ; dark green: ##82990b */
 .one-page-header.spa-header .navbar-brand img, .footer-logo img { max-height: 48px; }
 .offer .offer-text {min-height: 315px;}
-.offer.offer-small .offer-text {min-height: 425px;}
+.offer.offer-small .offer-text {min-height: 440px;}
+.offer.offer-small.on-top .offer-text {min-height: 314px;}
 .products .owl-slider-v4-products .item {
   min-height: 0px;
   height: 220px;
